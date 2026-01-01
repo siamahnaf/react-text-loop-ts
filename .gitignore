@@ -2,3 +2,4 @@
 /dist
 rollup.config.mjs
 /src
+.DS_Store
