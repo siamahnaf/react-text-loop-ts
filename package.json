@@ -1,6 +1,6 @@
 {
   "name": "react-text-loop-ts",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "A simple react text loop component🤷",
   "homepage": "https://github.com/siamahnaf198/react-text-loop-ts",
   "main": "dist/cjs/index.js",
